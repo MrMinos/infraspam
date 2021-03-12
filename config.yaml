@@ -31,7 +31,7 @@ menu:
   # before: []
   after:
     - name: "Github"
-      url: "https://github.com/MrMinos/infraspam.com"
+      url: "https://github.com/MrMinos/infraspam"
       weight: 10
     - name: "Hugo Themes"
       url: "https://themes.gohugo.io/hugo-book/"
@@ -62,12 +62,12 @@ params:
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo: https://github.com/MrMinos/infraspam.com
+  BookRepo: https://github.com/MrMinos/infraspam
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  BookEditPath: edit/master/exampleSite
+  # BookEditPath: edit/master/exampleSite
 
   # Configure the date format used on the pages
   # - In git information
